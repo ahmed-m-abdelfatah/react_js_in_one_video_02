@@ -1,0 +1,11 @@
+.clear-fix {
+  clear: both;
+}
+
+.active {
+  background-color: #4acf30;
+}
+
+li a:hover {
+  background-color: #111;
+}
